@@ -1,6 +1,6 @@
 {
   "name": "tooling-preact",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Adapter for using Preact with tooling.",
   "repository": {
     "url": "egoist/tooling-preact",
