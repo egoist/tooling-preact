@@ -5,16 +5,13 @@
 ## Install
 
 ```bash
-yarn add tooling-preact
+yarn add tooling tooling-preact --dev
 ```
 
 ## Usage
 
-```js
-const toolingPreact = require('tooling-preact')
-
-toolingPreact()
-//=> foo
+```bash
+yarn tooling build index.js --adapter preact
 ```
 
 ## Contributing
